@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tthero
-- 👀 I’m still exploring the fields :confused:
+- 👀 I’m still exploring fields :confused:
 - 🌱 I’m currently learning random CS stuff
 - 💞️ I’m currently not open for anything, as I am still learning :sweat_smile:
 - 📫 How to reach me: GitHub :smile:
